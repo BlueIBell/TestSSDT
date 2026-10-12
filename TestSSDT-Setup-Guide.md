@@ -9,7 +9,7 @@ Workflow: `feature/*` → `develop` → `main`
 
 ---
 
-## 1. Create the repository 
+## 1. Create the repository ?
 
 1. On GitHub, click **+ → New repository**.
 2. **Repository name:** `TestSSDT`
